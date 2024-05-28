@@ -1,7 +1,8 @@
 ||linkedin.com
 ||verstka.media
 ||medium.com
-||xvideos.com
 ||grammarly.com
 ||rutracker.org
 ||static.rutracker.cc
+||openvpn.net
+||meduza.io
